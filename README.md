@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dAndriiSarzhevskiy
+- 👋 Hi, I’m @dAndriiSarzhevskyi
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently studying at the Kharkov Polytechnic Institute majoring in computer science
 - 📫 How to reach me dartandray1277@gmail.com
